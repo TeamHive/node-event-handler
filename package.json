@@ -24,7 +24,7 @@
         "start": "tsc",
         "prepack": "tsc",
         "postpublish": "git push && git push --tags",
-        "postpack": "rm *.d.ts && rm *.js && rm -rf exceptions && rm -rf interfaces"
+        "postpack": "rm *.d.ts && rm *.js && rm -rf modules"
     },
     "devDependencies": {
         "@types/node": "^12.6.1",

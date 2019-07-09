@@ -1,5 +1,5 @@
-import { UncaughtException, UnhandledPromiseException } from './exceptions';
-import { ErrorHandler } from './interfaces';
+import { UncaughtException, UnhandledPromiseException } from '../exceptions';
+import { ErrorHandler } from '../interfaces';
 
 export class NodeEventHandler {
 
