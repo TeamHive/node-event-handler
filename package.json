@@ -8,7 +8,8 @@
     "license": "ISC",
     "author": "TeamHive",
     "contributors": [
-        " <>"
+        "Josh Gibson <gibsonjoshua55>",
+        "Tyler Vander Maas <tvmaasjazz>"
     ],
     "homepage": "https://github.com/TeamHive/node-event-handler",
     "repository": {
